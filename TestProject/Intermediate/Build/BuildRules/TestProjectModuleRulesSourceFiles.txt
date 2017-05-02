@@ -1,0 +1,3 @@
+G:\Moon\User\GitHub\UE-TestingEditor\TestProject\Source\TestProject\TestProject.Build.cs
+G:\Moon\User\GitHub\UE-TestingEditor\TestProject\Source\TestProject.Target.cs
+G:\Moon\User\GitHub\UE-TestingEditor\TestProject\Source\TestProjectEditor.Target.cs
